@@ -3,7 +3,7 @@ The Application is deployed in https://rameshkumar996.github.io/Weatherapp/
 
 Click on the link to see the application
 
-# Cloning, Running andn Testing the Application in local
+# Cloning, Running and Testing the Application in local
 Clone the project into local
 
 Install all the npm packages
